@@ -1,0 +1,9 @@
+A common cybercrime in India is UPI fraud, which has increased significantly with the rise of digital payments.
+In this type of scam, the victim is usually tricked into approving a payment request or clicking on a fraudulent link.
+The scammer may contact the victim pretending to be a bank official, customer support agent, or an online seller.
+Typically, the fraud begins when the victim receives a message or call stating that they will receive money.
+The scammer then sends a “collect request” through a UPI app or shares a fake link.
+When the victim approves the request or enters their confidential details such as OTP or PIN, money is instantly deducted from their bank account.
+Students and elderly people are the most common targets, as they may not fully understand how digital payment systems work.
+The consequences of such fraud include financial loss, stress, and loss of trust in online platforms.
+With the increasing use of digital transactions, it is important to stay aware and cautious to avoid falling victim to such scams.
